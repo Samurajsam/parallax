@@ -1,0 +1,64 @@
+body
+{
+	background-color: #000000;
+	color: lightgray;
+	font-size: 30px;
+	height:100%;
+}
+section.pierwsza 
+{
+height: 600px;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.pierwsza-1 
+{
+background-image: url(img/bg1.jpg);
+}
+#tekst
+{
+	width:96%;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:20px;
+	margin-right:20px;
+	text-align:left;
+	font-family: 'Bahiana', cursive;
+	color:white;
+	font-size:30px;
+}
+section.druga 
+{
+height: 600px;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.druga-1
+{
+background-image: url(img/bg2.jpg);
+}
+#tekst2
+{
+	width:100%;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:20px;
+	margin-right:20px;
+	text-align:center;
+	font-family: 'Bahiana', cursive;
+	color:white;
+	font-size:30px;
+}
+#map
+{
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:200px;
+	margin-right:200px;
+	width:70%;
+	height:500px;
+}
